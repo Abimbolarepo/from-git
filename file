@@ -1,0 +1,9 @@
+
+git config --global user.email "abimbola Samuel"
+git config --global user.email falopeabimbola5@gmail.com
+
+code file - enter the code
+git status - see the status of the file
+git add file1 - add the file to the stagging 
+git log - view who added the file
+git commit file1 -m "my first very commit" - commit the file of code
